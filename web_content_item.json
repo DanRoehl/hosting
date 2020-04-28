@@ -1640,7 +1640,7 @@
           "force_open_external": true,
           "url": "https://static.focus.de/fol/koops/dpa/my_lw_he18_html/html/index.html?customFont=true&standalone=votingAreas&initialWidth=630&childId=pym-3-qa2yk&parentTitle=Landtagswahl%20Hessen%202018%20-%20Deutschland%20-%20Politik%20-%20FOCUS%20Online&parentUrl=https%3A%2F%2Fwww.focus.de%2Fpolitik%2Fdeutschland%2Flandtagswahl-hessen%2F",
           "title": "Test Title",
-          "type:": "web_content_item"
+          "type": "web_content_item"
         },
         {
           "type": "twitter_tweet",
